@@ -42,7 +42,7 @@
   <style name="VisualWhitespace" foreground="#c0c0c0"/>
   <style name="QmlLocalId" italic="true"/>
   <style name="QmlExternalId" foreground="#000080" italic="true"/>
-  <style name="QmlTypeId" foreground="#800080"/>
+  <style name="QmlTypeId" foreground="#216f85"/>
   <style name="QmlRootObjectProperty" italic="true"/>
   <style name="QmlScopeObjectProperty" italic="true"/>
   <style name="QmlExternalObjectProperty" foreground="#000080" italic="true"/>
