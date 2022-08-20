@@ -12,8 +12,8 @@
   <style name="Parentheses" foreground="#ff0000" background="#b4eeb4"/>
   <style name="ParenthesesMismatch" background="#ff00ff"/>
   <style name="AutoComplete" foreground="#000080" background="#c0c0ff"/>
-  <style name="CurrentLine" foreground="#07080a" background="#eaeaf2"/>
-  <style name="CurrentLineNumber" foreground="#216f85" background="#f8f8f9"/>
+  <style name="CurrentLine" foreground="#07080a" background="#eff1f7"/>
+  <style name="CurrentLineNumber" foreground="#3a7084" background="#f8f8f9"/>
   <style name="Occurrences" background="#b4b4b4"/>
   <style name="Occurrences.Unused" underlineColor="#808000" underlineStyle="SingleUnderline"/>
   <style name="Occurrences.Rename" background="#ff6464"/>
@@ -26,7 +26,7 @@
   <style name="Global" foreground="#ce5c00"/>
   <style name="Field" foreground="#000080" background="#ffffff"/>
   <style name="Static" foreground="#2f4f4f" background="#ffffff"/>
-  <style name="VirtualMethod" foreground="#000000" background="#ffffff" italic="true"/>
+  <style name="VirtualMethod" foreground="#880000" background="#ffffff" italic="true"/>
   <style name="Function" foreground="#880000" background="#ffffff"/>
   <style name="Keyword" foreground="#0000ff" background="#ffffff"/>
   <style name="PrimitiveType" foreground="#0000ff" background="#ffffff"/>
