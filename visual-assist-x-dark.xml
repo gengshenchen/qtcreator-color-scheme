@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Visual Assist X Enhanced Highlighting (复制)">
+<style-scheme version="1.0" name="Visual Assist X Dark">
   <style name="Text" foreground="#b4b4b4" background="#222222"/>
   <style name="Link" foreground="#589df6"/>
   <style name="Selection" background="#0a2a50"/>
