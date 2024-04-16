@@ -7,3 +7,8 @@
  - visual_assist_x_enhanced_copy
 
 
+## install path
+'''
+eg：
+C:\Qt\Qt5.12.2\Tools\QtCreator\share\qtcreator\styles
+'''
